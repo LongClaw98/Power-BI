@@ -10,7 +10,7 @@ Below are the projects included in this repository:
 
 | Project | Description | Folder / Link |
 |---------|-------------|---------------|
-| Video Game Sales Analysis | Analysis of global video game sales (1980–2020) with interactive dashboards showing trends, top genres, and platform-specific insights. | [Video Game Sales](./Video%20Game%20Sales) |
+| Video Game Sales Analysis | Analysis of global video game sales (1980–2020) with interactive dashboards showing trends, top genres, and platform-specific insights. | [Video Game Sales](./VG%20Sales) |
 <!--
 | [Next Project Name] | Short description of your next project (dataset, insights, visuals). | [Folder Name](./FolderName) |
 | [Another Project] | Short description of another project. | [Folder Name](./FolderName) |
