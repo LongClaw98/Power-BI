@@ -1,4 +1,5 @@
-📊 Power BI Projects Repository
+
+# 📊 Power BI Projects Repository
 
 Welcome to my **Power BI Projects** repository! This repo contains multiple **display-ready Power BI projects** and files, each stored in its own folder with all related files (PBIX, screenshots, and supporting assets).  
 Each project demonstrates my skills in **data analysis, visualization, and interactive dashboard creation**.
